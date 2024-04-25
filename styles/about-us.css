@@ -1,0 +1,33 @@
+.about-us {
+    display: flex;
+    padding: 5em;
+    padding-bottom: 8em;
+    gap: 3em;
+    border-bottom: 1px solid #ccc;
+}
+
+.about-us article {
+    width: 45%;
+}
+
+.about-us article h2 {
+    font-size: 3em;
+    color: #37282B;
+    margin-bottom: 0.3em;
+}
+
+.about-us article p {
+    margin-bottom: 3em;
+}
+.about-us article a {
+    text-decoration: none;
+    padding: 0.5em 1em;
+    border: 2px solid #B0825C;
+    color: #B0825C;
+    font-weight: 550;
+}
+
+.about-us article a:hover {
+    border-color: #c79f7f;
+    color: #c79f7f;
+}

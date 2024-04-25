@@ -1,0 +1,43 @@
+.sponsors {
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    margin: 0 10em;
+}
+
+
+.sponsors h2,
+.sponsors p {
+    flex: 1 0 100%;
+    text-align: center;
+}
+
+.sponsors h2 {
+    font-size: 3em;
+    font-weight: 500;
+    color: #B0825C;
+}
+
+.sponsors p {
+    color: #96787F;
+    margin: 2em 0;
+}
+
+.sponsor-img {
+    display: flex;
+    align-self: center;
+    gap: 5em;
+}
+
+.img-container {
+    width: 100px;
+    background-color: #DDDDDD;
+    border-radius: 50%;
+    margin: 2em 0;
+}
+
+.img-container img {
+    margin: 0 auto;
+    padding: 1em 1.2em;
+}
+

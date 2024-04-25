@@ -1,0 +1,16 @@
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+body {
+    /* padding: 2em; */
+}
+
+.container {
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
